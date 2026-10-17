@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://p-54bfca6308.bnhpk.cn/sitemap.xml
